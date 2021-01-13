@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Built-By: Ouba
+Class-Path: org/openjfx/javafx-controls/11/javafx-controls-11.jar org/
+ openjfx/javafx-controls/11/javafx-controls-11-win.jar org/openjfx/jav
+ afx-graphics/11/javafx-graphics-11.jar org/openjfx/javafx-graphics/11
+ /javafx-graphics-11-win.jar org/openjfx/javafx-base/11/javafx-base-11
+ .jar org/openjfx/javafx-base/11/javafx-base-11-win.jar commons-cli/co
+ mmons-cli/1.4/commons-cli-1.4.jar com/tinkerpop/blueprints/blueprints
+ -core/1.2/blueprints-core-1.2.jar org/codehaus/jettison/jettison/1.3/
+ jettison-1.3.jar stax/stax-api/1.0.1/stax-api-1.0.1.jar org/codehaus/
+ jackson/jackson-jaxrs/1.8.5/jackson-jaxrs-1.8.5.jar org/codehaus/jack
+ son/jackson-core-asl/1.8.5/jackson-core-asl-1.8.5.jar org/codehaus/ja
+ ckson/jackson-mapper-asl/1.8.5/jackson-mapper-asl-1.8.5.jar
+Build-Jdk: 1.8.0_20
+Created-By: Maven Integration for Eclipse
+Main-Class: fr.dauphine.ja.student.pandemiage.ui.Cli
+
